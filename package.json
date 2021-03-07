@@ -2,11 +2,6 @@
   "name": "hc4_bracket_seeding",
   "version": "1.0.0",
   "description": "The bracket seeding website used for the HC4 main event.",
-  "main": "SeedingMain.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Felix v. Haaren (baronUKF)",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
