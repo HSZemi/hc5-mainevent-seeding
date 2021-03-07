@@ -1,7 +1,7 @@
 {
   "name": "hc4_bracket_seeding",
   "version": "1.0.0",
-  "description": "",
+  "description": "The bracket seeding website used for the HC4 main event.",
   "main": "SeedingMain.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
