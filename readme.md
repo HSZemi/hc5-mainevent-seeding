@@ -12,7 +12,7 @@ Nothing needed.
 
 ## Usage
 
-Just open the SeedingMain.html in a browser.
+Just open the index.html in a browser.
 
 ## License
 
