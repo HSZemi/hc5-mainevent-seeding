@@ -8,9 +8,7 @@ If you have any questions or feedback pm me :)
 
 ## Installation
 
-```bash
-yarn install
-```
+Nothing needed.
 
 ## Usage
 
