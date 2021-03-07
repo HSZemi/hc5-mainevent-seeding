@@ -139,7 +139,6 @@ function shuffle(a) {
  */
 const selectRandomHero = () => {
   const random = Math.floor(Math.random() * heroes.length);
-  //const rHero = heroes.splice(random, 1)[0];
   return { index: random, hero: heroes[random] };
 };
 
