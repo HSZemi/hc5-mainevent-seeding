@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>HC4 Bracket Seeding</title>
+    <link href="css/reboot.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="mainWrapper">
+        <div class="remHerosWrapper">
+
+        </div>
+        <button id="seed">Seed Hero</button>
+        <!-- Loader -->
+        <div class="loadingWrapper">
+            <div class="lds-roller">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <div class="loaderText">
+                Picking Hero...
+            </div>
+        </div>
+    </div>
+    <!-- Hero Template -->
+    <script id="hero-template" type="text/template">
+        <div class="heroWrapper">
+            <div class="name">%name%</div>
+            <div class="icon"><img src="img/heroes/%icon%"; /></div>
+        </div>
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="js/heroClass.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
