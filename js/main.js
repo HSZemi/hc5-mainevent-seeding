@@ -154,67 +154,67 @@ const config = {
   heroes: [
     {
       id: 0,
-      name: "Admiral Yi Sun-Shin",
+      name: "Jean Bureau",
     },
     {
       id: 1,
-      name: "Cobra Car",
+      name: "Gajah Mada",
     },
     {
       id: 2,
-      name: "Edward Longshanks",
+      name: "Khosrau",
     },
     {
       id: 3,
-      name: "Gonzalo Pizarro",
+      name: "Pachacuti",
     },
     {
       id: 4,
-      name: "Harald Hardraade",
+      name: "Alexios Komnenos",
     },
     {
       id: 5,
-      name: "Ivaylo",
+      name: "Selim the Grim",
     },
     {
       id: 6,
-      name: "Jacqueline of Hainaut",
+      name: "Robert Guiscard",
     },
     {
       id: 7,
-      name: "John the Fearless",
+      name: "Sumanguru",
     },
     {
       id: 8,
-      name: "King Bela IV",
+      name: "Jadwiga",
     },
     {
       id: 9,
-      name: "Le Loi",
+      name: "King Stephen",
     },
     {
       id: 10,
-      name: "Little John",
+      name: "Cobra Car",
     },
     {
       id: 11,
-      name: "Master of the Templar",
+      name: "Cobra Car",
     },
     {
       id: 12,
-      name: "Philip the Good",
+      name: "Cobra Car",
     },
     {
       id: 13,
-      name: "Pope Leo I",
+      name: "Cobra Car",
     },
     {
       id: 14,
-      name: "Sundjata",
+      name: "Cobra Car",
     },
     {
       id: 15,
-      name: "Warwolf",
+      name: "Cobra Car",
     },
   ],
 };
