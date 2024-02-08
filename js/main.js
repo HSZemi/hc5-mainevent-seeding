@@ -134,11 +134,17 @@ function shuffle(a) {
   return a;
 }
 
+const cryptRandom = () => {
+  const array = new Uint32Array(1);  // create array with 1 element
+  self.crypto.getRandomValues(array);  // set the element in the array to a cryptographically secure random value between 0 and 2^32
+  return array[0] / (2**32);  // return value with 0 <= value < 1
+}
+
 /**
  * Select Random Hero from Array
  */
 const selectRandomHero = () => {
-  const random = Math.floor(Math.random() * heroes.length);
+  const random = Math.floor(cryptRandom() * heroes.length);
   return { index: random, hero: heroes[random] };
 };
 
