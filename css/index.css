@@ -49,7 +49,7 @@
 
 #seed {
   position: absolute;
-  right: 398px;
+  right: 900px;
   bottom: 50px;
   font-family: "Nexa";
   background: rgba(0, 0, 0, 0.7);
@@ -70,8 +70,8 @@
 /* Loader */
 .loadingWrapper {
   position: absolute;
-  right: 463px;
-  top: 523px;
+  right: 1150px;
+  bottom: 85px;
   display: none;
 }
 

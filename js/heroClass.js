@@ -7,7 +7,7 @@ class Hero {
   }
 
   setDefaultPosition(pos) {
-    gsap.set(this.$node, { x: 1665, y: 68 + 63 * pos });
+    gsap.set(this.$node, { x: 1215, y: 68 + 63 * pos });
   }
 
   createNode = function () {
