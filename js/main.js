@@ -194,19 +194,19 @@ const config = {
     },
     {
       id: 10,
-      name: "Cobra Car",
+      name: "Vasco da Gama",
     },
     {
       id: 11,
-      name: "Cobra Car",
+      name: "Gregory VII",
     },
     {
       id: 12,
-      name: "Cobra Car",
+      name: "Jan Zizka",
     },
     {
       id: 13,
-      name: "Cobra Car",
+      name: "Otto the Great",
     },
     {
       id: 14,
