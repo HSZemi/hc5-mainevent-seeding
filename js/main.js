@@ -216,11 +216,11 @@ const config = {
     },
     {
       id: 14,
-      name: "Cobra Car",
+      name: "Emperor Sigismund",
     },
     {
       id: 15,
-      name: "Cobra Car",
+      name: "Alfred the Alpaca",
     },
   ],
 };
